@@ -6,7 +6,7 @@ Meu nome é Vitor Manoel. Atualmente sou estudante do Centro de Informática na 
 
 Minhas principais áreas de interesse são Aprendizado de Máquina e Ciência de Dados. Atualmente estou realizando uma iniciação científica na área de *clustering*.
 
-Sou membro da [Liga Acadêmica de Computação e Informação Quântica](https://www.instagram.com/laciq.ufpe){target="_blank"} da UFPE, onde realizo estudo e pesquisa na área de computação quântica.
+Sou membro da [Liga Acadêmica de Computação e Informação Quântica](https://www.instagram.com/laciq.ufpe) da UFPE, onde realizo estudo e pesquisa na área de computação quântica.
 
 ## Social 💬
 
