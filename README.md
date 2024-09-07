@@ -12,7 +12,9 @@ Meus principais interesses são Aprendizado de Máquina e Ciência de Dados.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmms@cin.ufpe.br)
 [![Static Badge](https://img.shields.io/badge/curr%C3%ADculo_lattes-blue?style=for-the-badge)](http://lattes.cnpq.br/0033329837898825)
 
-## Linguagens de Programação 💻
+## Competências ⚙️
+
+### Linguagens de Programação 💻
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
