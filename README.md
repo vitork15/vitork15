@@ -4,9 +4,9 @@ Meu nome é Vitor Manoel. Atualmente sou estudante de Engenharia da Computação
 
 ## Contato
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/vitormms/)
-![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](vmms@cin.ufpe.br)
-![Currículo Lattes](http://lattes.cnpq.br/0033329837898825)
+![https://www.linkedin.com/in/vitormms/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![vmms@cin.ufpe.br](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![http://lattes.cnpq.br/0033329837898825)](Currículo Lattes)
 
 ## Linguagens de Programação
 
