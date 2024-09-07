@@ -4,6 +4,7 @@ Meu nome é Vitor Manoel. Atualmente sou estudante de Engenharia da Computação
 
 ## Contato
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitormms%2F">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitormms%2F)
 ![vmms@cin.ufpe.br](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
