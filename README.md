@@ -1,5 +1,6 @@
-# Bem-vindo! ⚡
 [![README-EN](https://img.shields.io/badge/readme-en-blue?style=for-the-badge)]()
+
+# Bem-vindo! ⚡
 
 Meu nome é Vitor Manoel. Atualmente sou estudante de Engenharia da Computação na UFPE, meus principais interesses são Aprendizado de Máquina e Ciência de Dados.
 
