@@ -8,10 +8,14 @@ Minhas principais áreas de interesse são Aprendizado de Máquina e Ciência de
 
 Sou membro da [Liga Acadêmica de Computação e Informação Quântica](https://www.instagram.com/laciq.ufpe) da UFPE, onde realizo estudo e pesquisa na área de computação quântica.
 
-## Informações & Social 💬
+## Social 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitormms/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmms@cin.ufpe.br)
+
+# Currículo 📖
+
+[![CV](https://img.shields.io/badge/curriculum_vitae-blue?style=for-the-badge)]()
 [![Lattes](https://img.shields.io/badge/curr%C3%ADculo_lattes-blue?style=for-the-badge)](http://lattes.cnpq.br/0033329837898825)
 
 ## Competências ⚙️
