@@ -2,14 +2,15 @@
 
 # Bem-vindo! ⚡
 
-Meu nome é Vitor Manoel. Atualmente sou estudante de Engenharia da Computação na UFPE, meus principais interesses são Aprendizado de Máquina e Ciência de Dados.
+Meu nome é Vitor Manoel. Atualmente sou estudante da UFPE, estando no 5º período do curso de Engenharia da Computação.
 
-## Contato 💬
+Meus principais interesses são Aprendizado de Máquina e Ciência de Dados.
+
+## Social 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitormms/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmms@cin.ufpe.br)
-
-[Currículo Lattes](http://lattes.cnpq.br/0033329837898825)
+[![Static Badge](https://img.shields.io/badge/curr%C3%ADculo_lattes-blue?style=for-the-badge)](http://lattes.cnpq.br/0033329837898825)
 
 ## Linguagens de Programação 💻
 
