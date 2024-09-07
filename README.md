@@ -4,7 +4,7 @@
 
 Meu nome é Vitor Manoel. Atualmente sou estudante da UFPE, estando no 5º período do curso de Engenharia da Computação.
 
-Meus principais interesses são Aprendizado de Máquina e Ciência de Dados.
+Minhas principais áreas de interesse são Aprendizado de Máquina e Ciência de Dados.
 
 ## Social 💬
 
