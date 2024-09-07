@@ -1,6 +1,6 @@
 [![README-EN](https://img.shields.io/badge/readme-en-blue?style=for-the-badge)](https://github.com/vitork15/vitork15/blob/main/README.en.md)
 
-# Bem-vindos! ⚡
+# Boas vindas! ⚡
 
 Meu nome é Vitor Manoel. Atualmente sou estudante do Centro de Informática na UFPE, estando no 5º período do curso de Engenharia da Computação.
 
