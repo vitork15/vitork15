@@ -2,15 +2,17 @@
 
 # Bem-vindo! ⚡
 
-Meu nome é Vitor Manoel. Atualmente sou estudante da UFPE, estando no 5º período do curso de Engenharia da Computação.
+Meu nome é Vitor Manoel. Atualmente sou estudante do Centro de Informática na UFPE, estando no 5º período do curso de Engenharia da Computação.
 
-Minhas principais áreas de interesse são Aprendizado de Máquina e Ciência de Dados.
+Minhas principais áreas de interesse são Aprendizado de Máquina e Ciência de Dados. Atualmente estou realizando uma iniciação científica na área de *clustering*.
 
-## Social 💬
+Sou membro da [Liga Acadêmica de Computação e Informação Quântica](https://www.instagram.com/laciq.ufpe) da UFPE, onde realizo estudo e pesquisa na área de computação quântica.
+
+## Informações & Social 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitormms/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmms@cin.ufpe.br)
-[![Static Badge](https://img.shields.io/badge/curr%C3%ADculo_lattes-blue?style=for-the-badge)](http://lattes.cnpq.br/0033329837898825)
+[![Lattes](https://img.shields.io/badge/curr%C3%ADculo_lattes-blue?style=for-the-badge)](http://lattes.cnpq.br/0033329837898825)
 
 ## Competências ⚙️
 
