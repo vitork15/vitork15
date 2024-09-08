@@ -1,4 +1,4 @@
-[![README-EN](https://img.shields.io/badge/readme-en-blue?style=for-the-badge)](https://github.com/vitork15/vitork15/blob/main/README.en.md)
+[![README-EN](https://img.shields.io/badge/readme-english-blue?style=for-the-badge)](https://github.com/vitork15/vitork15/blob/main/README.en.md)
 
 # Boas vindas! ⚡
 
